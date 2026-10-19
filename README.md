@@ -4,6 +4,8 @@ Repositorio de materiales y códigos para el práctico de la Profesora Amina Hel
 
 ## Instrucciones del Práctico y Descripción Completa
 
+- **Documento del proyecto (en el repositorio)**: [`Lapis2026.pdf`](./Lapis2026.pdf)
+- **Diapositivas del proyecto (en el repositorio)**: [`project-slides.pdf`](./project-slides.pdf)
 - **Descripción completa del proyecto (Google Drive)**: [Ver documento de instrucciones](https://drive.google.com/file/d/1VS7VQuLhsBE84s6EhljcN_0PydGDXkS0/view?usp=sharing)
 - **Proyecto**: *Identification and characterization of merger debris through clustering using Gaia data*.
 
